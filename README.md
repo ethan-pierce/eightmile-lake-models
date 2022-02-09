@@ -8,4 +8,4 @@ TODO
 4. Calculate DEM concavity
 5. Add point for Eightmile Lake site to maps
 6. Plot concavity vs. soil flux for both models
-
+7. Produce output figures
