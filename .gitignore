@@ -1,6 +1,2 @@
 data/
-!gis/
-gis/*
-!gis/projects/dem/eightmile-lake-watershed-dem-filled.tif
-!gis/projects/dem/eightmile-lake-15km-buffer.tif
-
+gis/
